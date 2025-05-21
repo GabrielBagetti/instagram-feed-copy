@@ -2,6 +2,8 @@
 
 Um projeto front-end construído com **React 19**, **TailwindCSS** e **Vite**, inspirado no layout de um feed do Instagram. Ideal para estudos, clonar interfaces e praticar integração com bibliotecas modernas de UI e ícones.
 
+<img src="preview-insta.png" alt="Project preview screenshot">
+
 ## 🚀 Tecnologias Utilizadas
 
 - [React 19](https://react.dev/)
